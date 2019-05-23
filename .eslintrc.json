@@ -1,0 +1,20 @@
+{
+  "globals": {
+    "chrome": true
+  },
+  "env": {
+    "browser": true,
+    "commonjs": true,
+    "es6": true
+  },
+  "extends": [
+    "eslint:recommended"
+  ],
+  "parserOptions": {
+    "ecmaVersion": 2017,
+    "sourceType": "module"
+  },
+  "rules": {
+    "no-warning-comments": "warn"
+  }
+}

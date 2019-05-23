@@ -1,0 +1,8 @@
+{
+  "statusCode": 200,
+  "body": "{\"email\": \"sender@example.org\", \"website\": \"https://example.org\"}",
+  "headers": {
+    "X-Powered-By": "AWS Lambda & Serverless",
+    "Content-Type": "application/json"
+  }
+}
